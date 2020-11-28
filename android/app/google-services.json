@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981096257961",
+    "firebase_url": "https://age-calculator-368a1.firebaseio.com",
+    "project_id": "age-calculator-368a1",
+    "storage_bucket": "age-calculator-368a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981096257961:android:73763adf83412b02ff8cb8",
+        "android_client_info": {
+          "package_name": "mohamed.calc_age"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981096257961-ohurs4023nae04ev33m5jtbleqs9k8em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzqxvscV9Wo1O-_pvhMJe5zd9kEeDDEHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981096257961-ohurs4023nae04ev33m5jtbleqs9k8em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
